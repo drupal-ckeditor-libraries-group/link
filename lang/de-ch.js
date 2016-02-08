@@ -2,7 +2,7 @@
 Copyright (c) 2003-2016, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.md or http://ckeditor.com/license
 */
-CKEDITOR.plugins.setLang( 'link', 'de', {
+CKEDITOR.plugins.setLang( 'link', 'de-ch', {
 	acccessKey: 'Zugriffstaste',
 	advanced: 'Erweitert',
 	advisoryContentType: 'Inhaltstyp',
@@ -19,7 +19,6 @@ CKEDITOR.plugins.setLang( 'link', 'de', {
 	anchorName: 'Nach Ankername',
 	charset: 'Verknüpfter Ressourcenzeichensatz',
 	cssClasses: 'Formatvorlagenklasse',
-	download: 'Download erzwingen',
 	emailAddress: 'E-Mail-Adresse',
 	emailBody: 'Nachrichtentext',
 	emailSubject: 'Betreffzeile',
@@ -41,7 +40,7 @@ CKEDITOR.plugins.setLang( 'link', 'de', {
 	popupLeft: 'Linke Position',
 	popupLocationBar: 'Adressleiste',
 	popupMenuBar: 'Menüleiste',
-	popupResizable: 'Größe änderbar',
+	popupResizable: 'Grösse änderbar',
 	popupScrollBars: 'Rollbalken',
 	popupStatusBar: 'Statusleiste',
 	popupToolbar: 'Werkzeugleiste',
